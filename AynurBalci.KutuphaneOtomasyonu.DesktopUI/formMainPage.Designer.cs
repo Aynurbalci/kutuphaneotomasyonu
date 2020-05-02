@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1065, 696);
             this.Name = "formMainPage";
-            this.Text = "formMainPage";
+            this.Text = "Library Login Form";
             this.ResumeLayout(false);
 
         }
